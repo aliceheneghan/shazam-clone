@@ -53,9 +53,8 @@ LinkedIn: [your linkedIn](https://linkedin.com/in/alicehen)
 
 ### Used Tools
 
-- [icons](https://)
-- [npm](https://www.npmjs.com/)
-- [Google Fonts](https://fonts.google.com/)
+- [Bootstrap](https://getbootstrap.com/)
+  - Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
