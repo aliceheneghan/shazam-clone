@@ -27,7 +27,7 @@
 
 ##### Description
 
-_Shazam - clone_
+_Shazam - clone_  
 Create a webpage using Bootstrap to recreate the Shazam landing page.
 
 ##### Developed With
@@ -54,7 +54,7 @@ LinkedIn: [your linkedIn](https://linkedin.com/in/alicehen)
 ### Used Tools
 
 - [Bootstrap](https://getbootstrap.com/)
-  - Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  - [Licensed under MIT](https://github.com/twbs/bootstrap/blob/main/LICENSE)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
