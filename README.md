@@ -4,7 +4,7 @@
 
 ---
 
-![Project Screenshot](./images/shazam-screenshot.png)
+![Project Screenshot](./src/images/shazam-screenshot.png)
 
 #### Navigation
 
